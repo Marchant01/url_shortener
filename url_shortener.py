@@ -1,6 +1,6 @@
-import pyshorteners.exceptions
 import streamlit as st
 import pyshorteners
+import pyshorteners.exceptions
 import qrcode
 from io import BytesIO
 
